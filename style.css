@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: aqua;
+    padding: 10px;
+}
+
+
+ 
+header b{
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+header a{
+    padding-left: 10px;
+}
+
+h1{
+    color: #FF00FF;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer {
+    background-color: aliceblue;
+}
+
+footer p{
+    color: rgb(220, 220, 220);
+    background-color: darkmagenta;
+}
+
+nav a{
+    margin: 60px;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border: 3px solid navy;
+    border-radius: 10px;
+    background-color: navy;
+
+}
+
+nav {
+    margin-top: 25px;
+}
+
+select {
+    padding: 10px;
+    background-color: white;
+    color: royalblue;
+    border-radius: 10px;
+    border: 3px solid navy;
+    font-size: 20px;
+}
+
+select option {
+    color: white;
+    background-color: navy;
+}
+
+.pyshku{
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+main  {
+    margin: 10px;
+}
+
+main p{
+    font-size: 20px;
+}
+
+h2{
+    background-color: 	#0000FF;
+}
+
+main a{
+    border: 2px solid #0000FF;
+    padding: 3px;
+    text-decoration: none;
+}
